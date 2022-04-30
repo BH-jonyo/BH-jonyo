@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BH-jonyo
 - 👀 I’m interested in data analysis with python and excel.
-- 🌱 I’m currently learning Business Analytics with Azubi Africa. It includes working with KNIME and excel for automation and analysis.
+- 🌱 I’m currently learning Business Analytics with Azubi Africa. It includes working with KNIME and excel for automation and analysis, and python for Data analysis.
 - 💞️ I’m looking to collaborate on Business and investment analysis projects for better decision making.
 - 📫 How to reach me: email: jonyohopkins11@gmail.com
 
